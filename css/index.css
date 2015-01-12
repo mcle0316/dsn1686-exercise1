@@ -17,6 +17,14 @@ html {
 	box-sizing: inherit;
 }
 
+
+h1{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color: #0CE5BD;	
+	margin-top: 2rem;
+}
+
+
 a {
 	text-decoration: none;
 	color: white; 
@@ -28,7 +36,7 @@ a {
 	padding: 1rem;
 	border-radius: 15px;
 	display:inline-block;
-	margin: 6rem 1.5rem;
+	margin: 3rem 1.5rem;
 }
 
 
